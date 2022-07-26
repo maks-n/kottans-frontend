@@ -7,10 +7,9 @@
 ### General
 | # | Topic | Task | Solution |
 | - | ----- | ---- | -------- |
-| 0. | Git Basics | [0](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md) | [1]() |
+| 0. | Git Basics | [0](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md) | [1](solutions/git-intro/feedback.md) |
 | 1. | Linux CLI and Networking | [0](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md) | [TDB]() |
 | 2. | VCS (hello gitty), GitHub and Collaboration | [0](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md) | [TBD]() |
-|
 
 
 ### Front-End Basics
@@ -21,7 +20,6 @@
 | 5. | HTML & CSS Practice | [0](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md) | [TBD]() |
 | 6. | JavaScript Basics | [0](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md) | [TBD]() |
 | 7. | Document Object Model - practice | [0](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md) | [TBD]() |
-|
 
 
 ### Advanced Topics
@@ -34,5 +32,4 @@
 | 12. | Memory pair game — real project! | [0](https://github.com/kottans/frontend/blob/2022_UA/tasks/memory-pair-game.md) | [TBD]() |
 | 13. | Website Performance Optimization - optional | [0](https://github.com/kottans/frontend/blob/2022_UA/tasks/app-design-performance.md) | [TBD]() |
 | 14. | Friends App - real project! | [0](https://github.com/kottans/frontend/blob/2022_UA/tasks/friends-app.md) | [TBD]() |
-|
 
